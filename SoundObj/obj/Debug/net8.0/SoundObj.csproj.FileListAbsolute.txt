@@ -1,0 +1,14 @@
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\bin\Debug\net8.0\SoundObj.exe
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\bin\Debug\net8.0\SoundObj.deps.json
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\bin\Debug\net8.0\SoundObj.runtimeconfig.json
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\bin\Debug\net8.0\SoundObj.dll
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\bin\Debug\net8.0\SoundObj.pdb
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\obj\Debug\net8.0\SoundObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\obj\Debug\net8.0\SoundObj.AssemblyInfoInputs.cache
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\obj\Debug\net8.0\SoundObj.AssemblyInfo.cs
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\obj\Debug\net8.0\SoundObj.csproj.CoreCompileInputs.cache
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\obj\Debug\net8.0\SoundObj.dll
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\obj\Debug\net8.0\refint\SoundObj.dll
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\obj\Debug\net8.0\SoundObj.pdb
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\obj\Debug\net8.0\SoundObj.genruntimeconfig.cache
+C:\Users\guize\OneDrive\Desktop\CSharpAlura\SoundPOO\SoundObj\SoundObj\obj\Debug\net8.0\ref\SoundObj.dll
